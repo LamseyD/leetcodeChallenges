@@ -1,6 +1,9 @@
 # List of problems that I attempted
+| ID | Name | Difficulty | 
+| :------------- :|:-------------:| :-----:|
+| 67 | addBinary | Easy |
+| 717 | 1-bit and 2-bit characters | Easy |
+| 110 | Balanced Binary Tree | Easy |
+| 637 | Average of Levels in Binary Tree | Easy |
 
-- addBinary - id: 67
-- 1-bit and 2-bit characters - id: 717
-- Balanced Binary Tree - id: 110
-- Average of Levels in Binary Tree - id: 637
+
