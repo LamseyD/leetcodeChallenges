@@ -14,7 +14,7 @@ const isBalanced = (root) => {
     return false
 }
 
-height = (node) => {
+const height = (node) => {
     if (node == null)
         return 0
     
