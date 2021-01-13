@@ -12,6 +12,13 @@ class Node {
     setRight = (node) => {
         this.right = node
     }
+
+    height = () => {
+        if (this == null)
+            return 0
+
+        return (1 + Math.max(height(this.left), height(this.right)))
+    }
 }
 
 export default Node
