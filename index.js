@@ -1,11 +1,6 @@
-import addBinary from './src/addBinary.js'
-
+import { backspaceCompare } from './constants/problems.js'
+import TreeNode from './src/binaryTree/treeNode.js'
 import readline from 'readline'
-import TreeNode from './src/binaryTree/TreeNode.js'
-import avgTreeLevels from './src/avgTreeLevels.js'
-import isBalanced from './src/isBalanced.js'
-import calPoints from './src/baseballGame.js'
-import binaryTreePath from './src/binaryTreePaths.js'
 
 const io = readline.createInterface({
     input: process.stdin,
@@ -22,7 +17,6 @@ root.left.left = new TreeNode(15)
 // root.left.left.left = new TreeNode(15)
 // root.left.left.right = new TreeNode(15)
 // console.log(calPoints(["5","2","C","D","+"]))
-binaryTreePath(root)
-
+console.log(backspaceCompare('xywrrmp','xywrrmu#p'))
 
 process.exit(1)
