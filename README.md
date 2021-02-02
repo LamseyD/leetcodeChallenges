@@ -7,6 +7,11 @@
 | 637 | Average of Levels in Binary Tree | Easy |
 | 682 | Baseball Game | Easy |
 | 70  | Climbing Stairs | Easy |
+| 258 | AddDigits | Easy |
+| 844 | Backspace Compare | Easy |
+| 257 | binary tree path | Easy |
+| 415 | Add Strings | Easy |
 
 # Why JavaScript? Not Python or Java or C++?
-I simply like JavaScript than the other languages. I was going to do this in Java but JavaScript is my primary language at this point.
+I simply like JavaScript than the other languages.
+Everything is objects, built in array functions, it is lightweight and JSON is just awesome.
